@@ -39,7 +39,7 @@
     "@types/react-vertical-timeline-component": "^3.3.6",
     "autoprefixer": "^10.4.16",
     "docusaurus-plugin-image-zoom": "^1.0.1",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.32",
     "slick-carousel": "^1.8.1",
     "tailwindcss": "^3.3.5",
     "ts-node": "^10.9.1",
