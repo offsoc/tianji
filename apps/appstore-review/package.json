@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "app-store-scraper": "^0.18.0",
-    "axios": "1.7.7",
+    "axios": "1.8.2",
     "commander": "^4.1.1",
     "google-play-scraper": "^9.1.1",
     "googleapis": "^144.0.0",
